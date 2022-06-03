@@ -3,8 +3,11 @@ Keep in mind, while using the repository to run on your local machine, firsly cr
 
 HOW TO MAKE A LOCAL EVNIRONEMNT:
 first install virtualenv:
+
   pip install virtualenv
+
 then make a local environemnt:
+
   virtualenv venv
   
 Then, to enter that local environemnt:
