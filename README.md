@@ -16,4 +16,5 @@ Then, to enter that local environemnt:
 Now, as you are inside your virtual environemnt, install here all the dependencies
 And then to make the app to run along with its interactive UI that I made using streamlit
 Do
+
   streamlit run app.py
